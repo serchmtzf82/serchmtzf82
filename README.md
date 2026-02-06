@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm serchmtzf82
 
-<!--
-**serchmtzf82/serchmtzf82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | Tech Enthusiast | Lifelong Learner  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile.  
+I enjoy building clean, efficient, and scalable solutions while continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- 💡 Passionate about problem solving and system design  
+- 🛠️ Interested in backend, frontend, and automation  
+- 📈 Always improving code quality and best practices  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Python, PHP  
+- **Frameworks & Tools:** Node.js, Laravel, Git  
+- **Database:** MySQL, PostgreSQL  
+- **Others:** REST API, Linux, Docker (basic)
+
+---
+
+## 📌 Current Focus
+- Writing cleaner and more maintainable code  
+- Exploring modern backend architectures  
+- Building real-world projects
+
+---
+
+## 📫 Connect With Me
+- GitHub: [github.com/serchmtzf82](https://github.com/serchmtzf82)
+
+---
+
+⭐ Feel free to explore my repositories and drop a star if you find something useful!
